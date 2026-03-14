@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋 I'm Imesh Vishmika
 
-<!--
-**ImeshVishmika/ImeshVishmika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | Backend Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+
+* 🔭 Currently building backend applications and APIs
+* 🌱 Learning more about scalable backend architecture
+* 🧠 Interested in Java, PHP, and database systems
+* ⚡ Love turning ideas into working software
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* Java
+* PHP
+* SQL
+* JavaScript
+
+**Frameworks & Tools**
+
+* ReactNative
+* Jersey (JAX-RS)
+* Hibernate / JPA
+* MySQL
+* Git & GitHub
+* REST API development
+
+---
+
+## 📫 Connect With Me
+
+* Portafolio: https://imeshvishmika.me
+* GitHub: https://github.com/ImeshVishmika
+* LinkedIn: www.linkedin.com/in/imeshvishmika
+* Email: vishmikaimesh@gmail.com
+
+---
+
+⭐ *Always learning. Always building.*
+ fact: ...
 -->

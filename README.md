@@ -43,5 +43,5 @@
 ---
 
 ⭐ *Always learning. Always building.*
- fact: ...
--->
+ ...
+
